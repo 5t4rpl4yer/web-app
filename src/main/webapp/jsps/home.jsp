@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Toronto, Canada.</h1>
+<h1 align="center">Welcome to Landmark Technologies, Toronto, Canada.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
 	We offer Training for DevOps with Linux and equip Cloud IT Engineers for best performance ever...!</h1>
 <hr>
